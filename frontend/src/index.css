@@ -1,0 +1,15 @@
+/* Replaces the default Vite index.css so the page isn't force-centered or dark-locked */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+#root {
+  width: 100%;
+}
