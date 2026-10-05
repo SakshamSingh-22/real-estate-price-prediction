@@ -1,5 +1,5 @@
 # real-estate-price-prediction
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 The application uses a **Random Forest Regression** model trained specifically on Bangalore property data.
 
