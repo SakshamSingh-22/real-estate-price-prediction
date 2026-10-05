@@ -27,3 +27,4 @@ ENV/
 .vscode/
 .idea/
 *.joblib
+!ml-model/bangalore_model.joblib
